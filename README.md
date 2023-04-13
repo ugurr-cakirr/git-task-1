@@ -1,1 +1,1 @@
-# git-task-1
+Merhabalar bu dosya GitHub üzerinde düzenlendi.
